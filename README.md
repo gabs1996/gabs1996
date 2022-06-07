@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @gabs1996
+- 👋 Hi, I’m @gabs1996 
 - 👀 I’m interested in tecnology, pets and sports...
-- 🌱 I’m currently learning SQL (database and programing), English and how to be a good husband ...
+- 🌱 I'm studying the most part of my time about how to be a good developer, it is including some things like Quality Assurance Tester and Data Science.
+- 📚 Information Systems student.
 - 📫 How to reach me @gabs_9_6 on Instagram...
 
 <!---
