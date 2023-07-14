@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @gabs1996 
-- 👀 I’m interested in tecnology, pets and sports...
-- 🌱 I'm studying the most part of my time about how to be a good developer, it is including some things like Quality Assurance Tester and Data Science.
-- 📚 Information Systems student.
-- 📫 How to reach me @gabs_9_6 on Instagram...
+# **Gabriel Gonçalves dos Santos (gabs1996)**
 
-<!---
-gabs1996/gabs1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## :speech_balloon: Sobre mim
+Sou mineiro, tenho 27 anos atualmente, sou uma pessoa apaixonada por conhecimento e procuro muito aprender sobre área de Back End e Ciências de dados. Amo ter pets (2 Border Collies e 3 Persas), sou muito fã de HP, Percy Jackson, HP Lovecraft, Dan Brown e também de séries de ação, terror, ficção científica e drama. Na área profissional tenho uma pequena experiência com dados, onde pude contribuir como desenvolvedor em um bot da empresa que utilizava APIs para disponibilizar relatórios de negócio em tempo real e periódico. 
+## :star: Hard Skills
+1. SQL Server (Criação, manutenção, manipulação e consultas de queries).
+3. ETL (manutenção dos processos já estruturados e implementação).
+4. Python (Me aprofundando).
+
+## :smiley: Conecte-se comigo.
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-badge?color=gray)](https://www.linkedin.com/in/gabrielves/)
+[![Static Badge](https://img.shields.io/badge/Digital_Innovation_One-badge?color=gray)](https://web.dio.me/users/gabrielgsa003?)
+[![GitHub](https://img.shields.io/badge/GitHub-bagde?color=gray)](https://github.com/gabs1996)
+
+
+
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabs1996&theme=burnt-neon&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
