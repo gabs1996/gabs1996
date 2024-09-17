@@ -1,11 +1,17 @@
 # **Gabriel Gonçalves dos Santos (gabs1996)**
 
 ## :speech_balloon: Sobre mim
-Sou mineiro, tenho 27 anos atualmente, sou uma pessoa apaixonada por conhecimento e procuro muito aprender sobre área de Back End e Ciências de dados. Amo ter pets (2 Border Collies e 3 Persas), sou muito fã de HP, Percy Jackson, HP Lovecraft, Dan Brown e também de séries de ação, terror, ficção científica e drama. Na área profissional tenho uma pequena experiência com dados, onde pude contribuir como desenvolvedor em um bot da empresa que utilizava APIs para disponibilizar relatórios de negócio em tempo real e periódico. 
+Mineiro, 28 anos, apaixonado por conhecimento e sempre em busca de aprendizado. Tenho um grande interesse pelas áreas de Back-End e Ciências de Dados.
+
+No meu tempo livre, sou um amante de pets, com dois Border Collies e três gatos Persas. Também sou fã de literatura e entretenimento, com um gosto por HP Lovecraft, Percy Jackson, Dan Brown, além de séries de ação, terror, ficção científica e drama.
+
+Atualmente, estou me desenvolvendo na área de dados, com experiência como Analista de Dados, utilizando bancos de dados relacionais no Databricks. Estou aprofundando meus estudos em estatística para Data Science, e aprimorando meus conhecimentos em Engenharia de Dados, com foco em computação em nuvem, bancos de dados não relacionais e Big Data.
 ## :star: Hard Skills
 1. SQL Server (Criação, manutenção, manipulação e consultas de queries).
 3. ETL (manutenção dos processos já estruturados e implementação).
-4. Python (Me aprofundando).
+4. Cloud (Conhecimento básico em Pipeline de replicação e arquitetura de dados Azure)
+5. Power BI (Data Visualization)
+6. Python (Me aprofundando).
 
 ## :smiley: Conecte-se comigo.
 
